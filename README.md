@@ -31,15 +31,6 @@ MiniHabitTracker/
 └── MiniHabitTracker.xcodeproj
 ```
 
-## Getting Started
-
-1. Clone this repository.
-2. Open `MiniHabitTracker.xcodeproj` in Xcode 16 or later.
-3. Choose the `MiniHabitTracker` scheme and an iOS 18+ simulator or device.
-4. Build and run (`⌘R`).
-
-To use the widgets, run the main app once, then add **MiniHabitTracker** from the widget gallery on the device or simulator Home Screen.
-
 ## Notes
 
 - Habit data remains on-device; no account or server is required.
@@ -47,4 +38,4 @@ To use the widgets, run the main app once, then add **MiniHabitTracker** from th
 
 ## License
 
-No license has been specified for this repository.
+Copyright © 2026 Maicol Cabreja. All rights reserved. See [LICENSE](LICENSE) for details.
